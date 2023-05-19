@@ -10,6 +10,14 @@ Se você que está lendo ficou interessado no meu projeto ele esta publicado no 
 
 ![img1](https://github.com/alexLDSpedroDEV/gerichet/assets/115034319/ecbc97e0-608d-495c-b899-5046fded43d3)
 
+![img4](https://github.com/alexLDSpedroDEV/gerichet/assets/115034319/e4740ad9-0aef-4151-ba22-8ca0f5e4a2ff)
+
+![img5](https://github.com/alexLDSpedroDEV/gerichet/assets/115034319/57b15a53-6d8c-4e48-9684-1e34a6feceb3)
+
+![img6](https://github.com/alexLDSpedroDEV/gerichet/assets/115034319/b77bf9b8-9882-4b9e-ad71-91b15e60f709)
+
+![img7](https://github.com/alexLDSpedroDEV/gerichet/assets/115034319/9e3611e0-cb2d-4fc5-bd97-d483cd1b4188)
+
 Netlify: https://lnkd.in/dZjynkg9
 
 GitHub: https://lnkd.in/dgsnWcfx
